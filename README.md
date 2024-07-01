@@ -1,49 +1,72 @@
-# Hi, I'm Nasif Swalah
+# Nasif Swalah N
+## About me
 > I am a pursuing MERN Full Stack Developer with comprehensive knowledge in both frontend and backend tools. I have successfully completed various projects, showcasing my proficiency in developing robust and dynamic web applications. My projects include significant work on both frontend and backend, utilizing technologies such as Redux Toolkit, Tailwind CSS, and Bootstrap. I am currently enhancing my skills through an internship with Entri Elevate, where I apply my expertise in the MERN stack. Driven by a passion for continuous learning, I am committed to staying updated with the latest technologies to excel in my career.
 
-# Social
-- GitHub - (https://github.com/nasifswalah)
-- Linkedin - (https://www.linkedin.com/in/nasif-swalah-n-683800274/)
+## Portfolio Highlights
+### My Projects
 
-# Skills
-•	Mongo DB
-•	Express Js
-•	React Js
-•	Node Js
-•	Redux	Toolkit
-•	HTML5
-•	CSS3
-•	JavaScript
-•	Tailwind CSS
-•	Material UI
-•	Bootstrap
-•	Git & GitHub
-•	REST APIs
-•	Deployment
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Cleat Connect**  | Full Stack Web Application for Booking Turfs using MERN Stack                                              |Development progress   | Backend - https://github.com/nasifswalah/CleatConnect-turfBooking.git     Frontend - https://github.com/nasifswalah/CleatConnect-turfBooking-fe.git        |
+| **To-Do Manager**  | Developed a full stack To-Do management web application using MERN stack                                              | https://unique-medovik-273392.netlify.app/    | Frontend - https://github.com/nasifswalah/MERN-Todo-Manager-FE.git Backend - https://github.com/nasifswalah/Todo-Manager-BE-MERN.git            |
+| **Country Flag Viewer**  | Created website for displaying flags of different countries using ReactJs                                              |https://nasifswalah.github.io/react-countries-and-flags/   | https://github.com/nasifswalah/react-countries-and-flags.git             |
 
-# Projects
-### Cleat Connect – Turf booking (Present)                                                           
-  - Technologies Used: MERN Stack, Vite, JWT, Firebase Storage, Razorpay, Redux Toolkit.
-  - Developed a responsive turf booking platform using MERN stack..
-  - Implemented JWT for secure user authentication and authorization.
-  - Integrated Firebase Storage for efficient image handling.
-  - Created admin and manager functionalities for turf and slot management.
-  - Managed state with Redux Toolkit and handled errors with React Toastify.
-  - Frontend -  (https://github.com/nasifswalah/CleatConnect-turfBooking-fe.git)
-  - Backend - (https://github.com/nasifswalah/CleatConnect-turfBooking.git)
+### Skills
+- Mongo DB
+- Express Js
+- React Js
+- Node Js
+- Redux	Toolkit
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+-	Git & GitHub
+-	REST APIs
+-	Deployment
 
-### To-do Manager (May 2024)
-  - Designed and developed a full-stack to-do management web application using MERN stack. 
-  - Enabled user functionalities for adding, editing, and deleting tasks. 
-  - Deployed backend on Render and frontend on Netlify for a scalable and user-friendly solution.
-  - Live Deployment - (https://unique-medovik-273392.netlify.app/)
-
-### Country flag viewer (Feb 2024) 
-  - Designed a single-window static website using React.js and CSS. 
-  - Leveraged an API to retrieve country information.
-  - Enabled users to select and view flags of various countries through a user-friendly interface.  
-  - Deployed on GitHub Pages for public access.
-  - Live Deployment - (https://nasifswalah.github.io/react-countries-and-flags/)
+#### Leadership and Influence:
 
 
+- led my final year project team to integrate a new feature into an existing application, coordinating between front-end and back-end developers to ensure seamless implementation.
+- My experience working on the 'Cleat Connect' project, where I handled user authentication, authorization, and state management, showcases my ability to manage complex projects and deliver results.
 
+#### Networking:
+
+- Engage in tech forums, online communities, and social media groups related to MERN stack development to stay current and share knowledge.
+- Stay updated with the latest technologies and share my learning journey to inspire others.
+- Actively explore tech-related updates on LinkedIn to stay informed about industry trends and advancements.
+
+#### Career Plan:
+
+- Write and publish articles and tutorials on platforms like LinkedIn to share knowledge and experiences.
+- Increase knowledge in web development and related areas
+-  Work collaboratively with highly skilled teams to contribute effectively and learn from experienced developers.
+-  Build connections with experienced developers to create opportunities for mentorship and support for fresher learners entering the field.
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Enhance infrastructure for technology development, including high-speed internet, co-working spaces, and incubation centers.
+
+#### History of Open Source Contributions:
+
+- Successfully completed a booking platform project with a team, which included implementing robust user authentication functionalities.
+- Led the implementation of user authentication, JWT-based authorization, and Redux Toolkit for state management in developing a turf booking website using the MERN stack with Vite, significantly enhancing user experience.
+
+#### History of Community Engagement:
+
+- Update LinkedIn with newly learned skills and achievements to showcase ongoing professional growth and development.
+
+#### Highly Visible Technical Content:
+
+- Recently posted my learned skills in Reactjs and regularly updating updates of my projects
+
+#### Highly Used Software Tools:
+
+- I am not developed any software tools like that
+
+#### Competitive Website Profiles:
+
+- LinkedIn - https://www.linkedin.com/in/nasif-swalah-n-683800274/
+- GitHub - https://github.com/nasifswalah
+---
