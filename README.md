@@ -7,9 +7,9 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Cleat Connect**  | Full Stack Web Application for Booking Turfs using MERN Stack                                              |Development progress   | Backend - https://github.com/nasifswalah/CleatConnect-turfBooking.git     Frontend - https://github.com/nasifswalah/CleatConnect-turfBooking-fe.git        |
-| **To-Do Manager**  | Developed a full stack To-Do management web application using MERN stack                                              | https://unique-medovik-273392.netlify.app/    | Frontend - https://github.com/nasifswalah/MERN-Todo-Manager-FE.git Backend - https://github.com/nasifswalah/Todo-Manager-BE-MERN.git            |
-| **Country Flag Viewer**  | Created website for displaying flags of different countries using ReactJs                                              |https://nasifswalah.github.io/react-countries-and-flags/   | https://github.com/nasifswalah/react-countries-and-flags.git             |
+| **Cleat Connect**  | Full Stack Web Application for Booking Turfs using MERN Stack                                              |Development progress   | Backend - [Banckend Repository](https://github.com/nasifswalah/CleatConnect-turfBooking.git)     Frontend - [Frontend Repository](https://github.com/nasifswalah/CleatConnect-turfBooking-fe.git)        |
+| **To-Do Manager**  | Developed a full stack To-Do management web application using MERN stack                                              | [Hosted link](https://unique-medovik-273392.netlify.app/)    | Frontend - [Repository](https://github.com/nasifswalah/MERN-Todo-Manager-FE.git) Backend - [Repository](https://github.com/nasifswalah/Todo-Manager-BE-MERN.git)            |
+| **Country Flag Viewer**  | Created website for displaying flags of different countries using ReactJs                                              |[Hosted link](https://nasifswalah.github.io/react-countries-and-flags/)   | [Repository](https://github.com/nasifswalah/react-countries-and-flags.git)             |
 
 ### Skills
 - Mongo DB
@@ -67,6 +67,5 @@
 
 #### Competitive Website Profiles:
 
-- LinkedIn - https://www.linkedin.com/in/nasif-swalah-n-683800274/
-- GitHub - https://github.com/nasifswalah
+- [LinkedIn](https://www.linkedin.com/in/nasif-swalah-n-683800274/)
 ---
